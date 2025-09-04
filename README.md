@@ -1,4 +1,7 @@
 # Buildx
+Copyright (c) 2025 Android Open Source Software.All Right Reserved.
+contribute:syaifulnizam shamsudin
+Android Developer.
 
 [![GitHub release](https://img.shields.io/github/release/docker/buildx.svg?style=flat-square)](https://github.com/docker/buildx/releases/latest)
 [![PkgGoDev](https://img.shields.io/badge/go.dev-docs-007d9c?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/github.com/docker/buildx)
