@@ -18,7 +18,7 @@ Buildx is a Docker CLI plugin for extended build capabilities with
 > - Compose build support
 > - High-level builds with [Bake](https://docs.docker.com/build/bake/)
 > - In-container driver support (both Docker and Kubernetes)
-
+> - Protections all data and multi-images nodes
 ___
 
 - [Installing](#installing)
